@@ -14,7 +14,6 @@ status-website:
   themeUrl: https://raw.githubusercontent.com/YT-Advanced/tbcpcoj/refs/heads/master/custom.css
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
-  theme: night
   navbar:
     - title: Status
       href: /tbcpcoj
