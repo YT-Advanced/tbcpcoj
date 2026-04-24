@@ -9,7 +9,7 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /YT-Advanced
-  logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.png
+  logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
   introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
