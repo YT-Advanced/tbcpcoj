@@ -5,10 +5,10 @@ repo: tbcpcoj # The name of this repository
 sites:
   - name: TBCPC
     url: https://oj.tbcpc.id.vn
-
+    icon: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
 status-website:
   # cname: demo.upptime.js.org
-  baseUrl: /YT-Advanced
+  baseUrl: /tbcpcoj
   logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
