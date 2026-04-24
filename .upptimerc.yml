@@ -12,7 +12,7 @@ status-website:
   logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
-  introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
+  theme: night
   navbar:
     - title: Status
       href: /
