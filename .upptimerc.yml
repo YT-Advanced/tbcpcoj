@@ -11,7 +11,6 @@ status-website:
   baseUrl: /tbcpcoj
   logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
   favicon: https://tbcpclub.github.io/tbcpcimg/TBCPC.png
-  themeUrl: https://raw.githubusercontent.com/YT-Advanced/tbcpcoj/refs/heads/master/custom.css
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
   navbar:
