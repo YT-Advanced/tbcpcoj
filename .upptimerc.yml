@@ -10,14 +10,18 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /tbcpcoj
   logoUrl: https://tbcpclub.github.io/tbcpcimg/TBCPC.ico
+  favicon: https://tbcpclub.github.io/tbcpcimg/TBCPC.png
   name: TBCPC Status
   introTitle: "Uptime for TBCPC"
   theme: night
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /tbcpcoj
+    - title: Website
+      href: https://oj.tbcpc.id.vn/
+    - title: Facebook
+      href: https://www.facebook.com/TBCompetitiveProgrammingClub/
+      
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
